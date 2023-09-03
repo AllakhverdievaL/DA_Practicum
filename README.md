@@ -1,1 +1,1 @@
-# DataAnalysis_YandexPracticum
+# DA_YP
