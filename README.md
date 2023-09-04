@@ -5,3 +5,13 @@
  <source media="(prefers-color-scheme: light)" srcset="картинка.jpg">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
+
+В данном репозитории представлена часть учебных проектов, выполненых на курсе по анализу данных.
+
+## Описание проектов
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|      | Python    |
+|      | SQL       |
