@@ -1,1 +1,2 @@
-# Data Analysis Yndex Practicum portfolio
+# Анализ данных (Яндекс Практикум)
+# Портфолио
