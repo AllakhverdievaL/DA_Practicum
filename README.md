@@ -1,1 +1,1 @@
-# DA_YP
+# Data Analysis Yndex Practicum portfolio
