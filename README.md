@@ -1,4 +1,4 @@
-# Проекты по курсу "Анализ данных" (Яндекс Практикум)
+#    Проекты по курсу "Анализ данных" (Яндекс Практикум)
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
