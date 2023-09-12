@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td>3.</td>
-    <td>Маркетинговый анализ работы приложения Procrastinate Pro</td>
+    <td>Маркетинговый анализ работы приложения Procrastinate Pro+</td>
     <td>В данном проекте рассматриваются расходы на маркетинговые кампании и даются рекомендации по распределению рекламного бюджета. </td>
     <td>pandas, numpy, matplotlib, seaborn, datetime, когортный анализ, юнит-экономика</td>
     <td><a href="https://nbviewer.org/github/leilaall/da_YP/blob/main/3.%20Маркетинговый%20анализ%20работы%20приложения%20Procrastinate%20Pro/Маркетинговый%20анализ%20работы%20приложения%20Procrastinate%20Pro.ipynb" target="_blank">Проект_3</a></td>
