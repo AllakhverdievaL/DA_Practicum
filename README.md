@@ -2,7 +2,7 @@
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/leilaall/images/da_YP_images/картинка.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/leilaall/blob/images/da_YP_images/картинка.jpg">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
